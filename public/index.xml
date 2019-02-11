@@ -6,10 +6,24 @@
     <description>Recent content on McEWen Khundi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>McEwen Khundi&#39;s resume</title>
+      <link>/vitae/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/vitae/</guid>
+      <description>Contact Info lijia.yu@outlook.com github.com/yulijia +1 000-000-0000For more information, please contact me via email.SkillsExperienced in statistical analysis, statistical learning models, and optimization methods.
+Full experience with next generation sequencing data analysis.
+Highly skilled in R, Bash, Perl, Python, LaTeX
+DisclaimerThis resume was made with the R package pagedown.
+Last updated on 2019-02-11.
+MainLijia YuCurrently searching for a PhD student positionPlease note that this is a real resume, and I’m really looking for a PhD student position at the moment.</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
