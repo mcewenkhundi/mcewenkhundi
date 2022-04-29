@@ -1,5 +1,4 @@
 ---
-title: "My personal blog for documenting my professional journey and data analysis tricks"
 listing:
   contents: posts
   sort: "date desc"
