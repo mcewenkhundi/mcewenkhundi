@@ -14,8 +14,12 @@ website:
       - icon: twitter
         href: https://twitter.com/MacKhundi
   page-footer: 
-    left: "Copyright 2022, McEwen Khundi. Made with Quarto."
-    
+    left:
+      - text: "Copyright 2022, McEwen Khundi." 
+        href: about.qmd
+      - text: "Made with Quarto"
+        href: https://quarto.org/
+
     right: 
       - icon: github
         href: https://github.com/mcewenkhundi
