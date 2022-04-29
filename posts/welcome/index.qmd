@@ -1,12 +1,12 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2022-04-26"
+author: "McEwen Khundi"
+date: "2022-04-29"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Hi there! Welcome!
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+I have created this Blog so that I can have a space to share my professional journey as a data scientist as well as various data tricks that I have learnt along the way. I intend to share my work and thoughts on different data topics that I am interested in and that others have asked me to do. The site will also double as my on-line Curriculum Vitae to enable future collaborators to have a quick overview of my work.

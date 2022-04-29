@@ -7,6 +7,9 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/MacKhundi
+    - icon: rstudio
+      text: Rstudio
+      href: https://education.rstudio.com/trainers/people/khundi+mcewen/
     - icon: github
       text: Github
       href: https://github.com/mcewenkhundi

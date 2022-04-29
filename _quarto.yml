@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "McEwen Khundi Blog"
+  title: "McEwen Khundi's Blog"
   repo-url: https://github.com/mcewenkhundi/mcewenkhundi
   navbar:
     right:
