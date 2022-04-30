@@ -5,7 +5,7 @@ project:
 website:
   title: "McEwen Khundi's Blog"
   repo-url: https://github.com/mcewenkhundi/mcewenkhundi
-  fav-icon: dice-4.png
+  favicon: dice-4.png
   navbar:
     right:
       - about.qmd
@@ -22,10 +22,8 @@ website:
         href: https://quarto.org/
 
     right: 
-      - icon: github
-        href: https://github.com/mcewenkhundi
-      - icon: twitter 
-        href: https://twitter.com/MacKhundi  
+      - text: Blog Source
+        href: https://github.com/mcewenkhundi/mcewenkhundi 
     
 format:
   html:
