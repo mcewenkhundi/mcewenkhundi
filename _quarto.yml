@@ -5,6 +5,7 @@ project:
 website:
   title: "McEwen Khundi's Blog"
   repo-url: https://github.com/mcewenkhundi/mcewenkhundi
+  fav-icon: dice-4.png
   navbar:
     right:
       - about.qmd
