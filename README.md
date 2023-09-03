@@ -8,10 +8,12 @@
 
 <h3> 👨🏻‍💻 &nbsp; Miscellaneous contributions </h3>
 
-- I helped to identify bugs/improve documentation in R packages
+- I helped to identify bugs/improve documentation in R packages/books
   - [esystats](https://github.com/easystats/insight/issues/415)
   - [quarto](https://github.com/quarto-dev/quarto-cli/discussions/755)
   - [quarto](https://github.com/quarto-dev/quarto-cli/discussions/773)
+  - [Advanced R book](https://github.com/mcewenkhundi/adv-r)
+  - [epiR handbook](https://github.com/appliedepi/epiRhandbook_eng/issues/108)
 
 
 
