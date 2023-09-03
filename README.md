@@ -6,3 +6,16 @@
 - 💼 &nbsp; I am currently working for [African Institute for Development Policy (AFIDEP).](https://www.afidep.org/staff/mcewen-khundi/)
 - ✍️ &nbsp; I have a broad range of experience in the field of [public health.](https://mcewenkhundi.github.io/mcewenkhundi/publications.html)
 
+<h3> 👨🏻‍💻 &nbsp; Miscellaneous contributions </h3>
+
+- I helped to identify bugs/improve documentation in R packages
+  - [esystats](https://github.com/easystats/insight/issues/415)
+  - [quarto](https://github.com/quarto-dev/quarto-cli/discussions/755)
+  - [quarto](https://github.com/quarto-dev/quarto-cli/discussions/773)
+
+
+
+
+
+
+
