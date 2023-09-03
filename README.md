@@ -14,6 +14,11 @@
   - [quarto](https://github.com/quarto-dev/quarto-cli/discussions/773)
   - [Advanced R book](https://github.com/mcewenkhundi/adv-r)
   - [epiR handbook](https://github.com/appliedepi/epiRhandbook_eng/issues/108)
+   
+- Active participation in online forums
+  - [Applied Epi Community](https://community.appliedepi.org/u/mcewenkhundi/summary)
+  - [Posit Community] (https://community.rstudio.com/u/khundiman/)
+
 
 
 
