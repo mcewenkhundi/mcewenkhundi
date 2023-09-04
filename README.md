@@ -17,7 +17,7 @@
    
 - Active participation in online forums
   - [Applied Epi Community](https://community.appliedepi.org/u/mcewenkhundi/summary)
-  - [Posit Community](https://community.rstudio.com/u/khundiman/)
+  - [Posit Community](https://community.rstudio.com/u/Khundiman/summary)
 
 
 
